@@ -15,7 +15,6 @@ This project uses **Random Forest Regression** to predict stock prices based on 
 - `README.md`
 
 ## Team Members
-- Sai Santhosh
-- Sheik Mohammed Oli
-- Syed Mohammed Hasan
-- Selvamuthukumaran
+- Deepika
+- Dasari Shylaja 
+- Mary Keerthana 
